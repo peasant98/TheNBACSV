@@ -8,3 +8,5 @@ Download for a deeper view into detailed statistics of a player's specific seaso
 **Note**: Players with data from *decades* ago are likely to have more fields missing, especially in the more advanced stats categories, so be careful there. There are quite of view NaNs spread out across the data!
 
 Also, this doesn't include the last two seasons, so updates are in order!
+
+***Upcoming***: The NBA CSV v2 is coming out soon!   
